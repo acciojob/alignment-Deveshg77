@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+h1 {
+	text-align:center;
+}
+
+#t11 {
+	text-align:left;
+}
+
+#t12 {
+	text-align:centre;
+}
