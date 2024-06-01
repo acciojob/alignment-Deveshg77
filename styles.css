@@ -3,10 +3,7 @@ h1 {
 	text-align:center;
 }
 
-#t11 {
-	text-align:left;
+table-1 {
+    border: 1px solid black;
 }
 
-#t12 {
-	text-align:centre;
-}
